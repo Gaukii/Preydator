@@ -38,6 +38,5 @@ Simply run Preydator.exe.
   <li>Zombie sound effects : [Zombie Voice Audio Pack - Free] - (Tybug Studios (https://assetstore.unity.com/packages/audio/sound-fx/creatures/zombie-voice-audio-pack-free-196645)</li>
   <li>Zombie models and animations : www.mixamo.com</li>
 </ul>
-[Site web de OpenAI](https://openai.com)
-
+<a href="https://www.codeur.com">Visiter Codeur.com</a>
 This game is based off Mike's Code's tutorial series on how to develop a FPS Game using Unity.
