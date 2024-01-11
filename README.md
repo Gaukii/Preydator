@@ -1,3 +1,5 @@
+#titreReadme !
+
 Hi ! Thanks for downloading Preydator
 
 This is a suvival game where hordes of zombies are chasing you. It's only up to you to put them at peace forever now
@@ -16,7 +18,6 @@ G              : Throw grenade (Hold to increase force, release to throw)
 T              : Throw smoke (Hold to increase force, release to throw)
 
 --- Credits ---
-
 Ammobox 1 : Ammo - Glitch Squirrel (https://assetstore.unity.com/packages/3d/props/ammo-157327)
 Ammobox 2 : GAZ Ammo - Nasty Rodent Studio (https://assetstore.unity.com/packages/3d/props/weapons/gaz-ammo-63382)
 Building : Electrical substation - Abandoned World (https://assetstore.unity.com/packages/3d/props/exterior/electrical-substation-190678)
