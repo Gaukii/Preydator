@@ -4,10 +4,10 @@ Hi ! Thanks for downloading Preydator
 
 This is a suvival game where hordes of zombies are chasing you. It's only up to you to put them at peace forever now
 
---- Execution ---
+--- Execution ---<br>
 Simply run Preydator.exe.
 
---- Controls ---
+--- Controls ---<br>
 WASD (or ZQSD) : Move
 Spacebar       : Jump
 Left click     : Shoot
