@@ -2,7 +2,7 @@
 
 Hi ! Thanks for downloading Preydator
 
-This is a suvival game where hordes of zombies are chasing you. It's only up to you to put them at peace forever now
+This is a survival game where hordes of zombies are chasing you. It's only up to you to put them at peace forever now
 
 <h2>Execution</h2>
 Simply run Preydator.exe.
